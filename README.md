@@ -1,1 +1,1 @@
-# githun.io
+# github.io
